@@ -1,0 +1,47 @@
+THỎA THUẬN CẤP PHÉP SỬ DỤNG PHẦN MỀM T-STEM
+(Phiên bản 1.0 — 2026-10-06)
+
+1. Phạm vi
+T-STEM ("Phần mềm") là ứng dụng mô phỏng Toán – Vật lí dành cho giáo viên. Cài đặt hoặc
+sử dụng Phần mềm nghĩa là bạn đồng ý với Thỏa thuận này.
+
+2. Cấp phép
+2.1. Gói Miễn phí: bạn được dùng không thời hạn các mô hình và công cụ thuộc gói Miễn
+     phí, cho mục đích giảng dạy và học tập.
+2.2. Dùng thử Pro: 14 ngày, mỗi máy một lần.
+2.3. Gói Pro: dùng toàn bộ tính năng trên số máy và trong thời hạn ghi trong khóa bản
+     quyền. Khóa gắn với email người mua và không được chuyển nhượng nếu chưa có đồng ý
+     của tác giả.
+2.4. Hình ảnh, ảnh động GIF và bài giảng bạn tạo bằng Phần mềm thuộc về bạn. Bạn được
+     dùng chúng trong lớp học, tài liệu, video bài giảng.
+
+3. Điều cấm
+3.1. Sao chép, phân phối lại, cho thuê, bán lại Phần mềm hoặc khóa bản quyền.
+3.2. Dịch ngược, tháo gỡ, sửa đổi Phần mềm để vượt qua cơ chế bản quyền.
+3.3. Chia sẻ khóa bản quyền cho người khác dùng.
+
+4. Thành phần mã nguồn mở
+Phần mềm dùng các thư viện mã nguồn mở liệt kê trong THIRD_PARTY_LICENSES.txt. Các thư
+viện đó tuân theo giấy phép riêng. Bạn có quyền thay thư viện Qt/PySide6 (LGPL v3) đi
+kèm bằng phiên bản tương thích.
+
+5. Dịch vụ AI của bên thứ ba
+Tính năng Quét đề và AI gửi ảnh, văn bản tới Google Gemini bằng khóa API của chính bạn.
+Việc dùng Gemini tuân theo điều khoản của Google. Tác giả không nhận, không lưu nội dung đó.
+
+6. Hoàn tiền
+Trong 7 ngày kể từ khi mua, nếu Phần mềm không chạy được trên máy của bạn và tác giả
+không khắc phục được, bạn được hoàn tiền. Khóa bản quyền sẽ bị thu hồi khi hoàn tiền.
+
+7. Không bảo đảm và giới hạn trách nhiệm
+Phần mềm được cung cấp "như hiện có". Tác giả cố gắng bảo đảm nội dung đúng chương
+trình GDPT 2018 nhưng không bảo đảm tuyệt đối không có sai sót. Trách nhiệm của tác giả,
+nếu có, không vượt quá số tiền bạn đã trả cho khóa bản quyền.
+
+8. Chấm dứt
+Vi phạm mục 3 thì khóa bản quyền có thể bị thu hồi mà không hoàn tiền.
+
+9. Luật áp dụng
+Thỏa thuận này theo pháp luật Việt Nam.
+
+Liên hệ và hỗ trợ: https://github.com/Tikz-Physics/T-STEM-Releases/issues

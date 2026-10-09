@@ -9,10 +9,12 @@ sử dụng Phần mềm nghĩa là bạn đồng ý với Thỏa thuận này.
 2.1. Gói Miễn phí: bạn được dùng không thời hạn các mô hình và công cụ thuộc gói Miễn
      phí, cho mục đích giảng dạy và học tập.
 2.2. Dùng thử Pro: 14 ngày, mỗi máy một lần.
-2.3. Gói Pro: dùng toàn bộ tính năng trên số máy và trong thời hạn ghi trong khóa bản
+2.3. Gói Pro cần kết nối Internet để xác minh bản quyền ít nhất 3 ngày một lần. Quá 3 ngày
+     không xác minh được, Pro tạm khóa cho tới lần mở Phần mềm có Internet kế tiếp.
+2.4. Gói Pro: dùng toàn bộ tính năng trên số máy và trong thời hạn ghi trong khóa bản
      quyền. Khóa gắn với email người mua và không được chuyển nhượng nếu chưa có đồng ý
      của tác giả.
-2.4. Hình ảnh, ảnh động GIF và bài giảng bạn tạo bằng Phần mềm thuộc về bạn. Bạn được
+2.5. Hình ảnh, ảnh động GIF và bài giảng bạn tạo bằng Phần mềm thuộc về bạn. Bạn được
      dùng chúng trong lớp học, tài liệu, video bài giảng.
 
 3. Điều cấm

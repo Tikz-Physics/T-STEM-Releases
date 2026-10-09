@@ -7,7 +7,7 @@
 | Dữ liệu | Khi nào | Để làm gì | Lưu ở đâu |
 |---|---|---|---|
 | Email | Khi bạn kích hoạt gói Pro | Gắn khóa bản quyền với người mua, hỗ trợ khi đổi máy | Máy chủ bản quyền (Google Firebase) và máy của bạn |
-| Mã máy | Khi kích hoạt và mỗi lần mở app có mạng | Giới hạn số máy dùng một khóa | Máy chủ bản quyền và máy của bạn |
+| Mã máy | Khi kích hoạt, khi mở app có mạng và mỗi 6 giờ khi app đang chạy (gói Pro) | Giới hạn số máy dùng một khóa, xác minh bản quyền | Máy chủ bản quyền và máy của bạn |
 
 - Mã máy là chuỗi băm một chiều SHA-256. Nó không chứa tên máy, tên người dùng hay địa chỉ IP.
 - Gói Miễn phí và Dùng thử không gửi dữ liệu nào lên máy chủ bản quyền.
